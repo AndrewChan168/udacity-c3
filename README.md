@@ -1,1 +1,2 @@
-# udacity-c3
+# cloud-developer
+content for Udacity's cloud developer nanodegree
