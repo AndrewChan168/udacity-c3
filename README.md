@@ -9,7 +9,10 @@ A basic Ionic client web application which consumes the RestAPI Backend.
 3. [The RestAPI User Backend](/udacity-c3-restapi-user), a Node-Express user microservice.
 
 ## Completion Evidence
+![alt txt](https://github.com/AndrewChan168/udacity-c3/blob/v01/dockerhub.png)
 ![alt txt](https://github.com/AndrewChan168/udacity-c3/blob/v01/cmd.png)
+![alt txt](https://github.com/AndrewChan168/udacity-c3/blob/v01/pod.png)
+![alt txt](https://github.com/AndrewChan168/udacity-c3/blob/v01/web.png)
 
 ## Getting Setup
 
